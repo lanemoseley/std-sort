@@ -1,0 +1,9 @@
+This is a demonstration of how to use the std sort function.
+
+To run the main program:
+    g++ -o main main.cpp sortVector.cpp -g -Wall
+    ./main
+
+To run the catch tests:
+    g++ -o test testSort.cpp sortVector.cpp -g -Wall
+    ./test
